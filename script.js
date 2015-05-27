@@ -1,5 +1,5 @@
 var selectedColor = 'blue';
-var selectedColor = 'orange';
+var selectedColor2 = 'orange';
 
 function change(){
 	if (selectedColor === 'blue'){
