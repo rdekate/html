@@ -21,6 +21,7 @@ function change1(){
 		selectedColor1 = 'yellow';
 	}
 	document.getElementById('staging1').style.backgroundColor = selectedColor1;
+}
 
 function change2(){
 	if (selectedColor2 === 'orange'){
